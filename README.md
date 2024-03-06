@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Keji Bakare
+- 👋 Hi, I’m Bakare
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and React.js
 - 💞️ I’m looking to collaborate on web applications
